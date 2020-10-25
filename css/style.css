@@ -197,7 +197,7 @@ hr {
 .grid-item-catalog {
   text-align: center;
 }
-.grid-item-catalog.bg-wgite {
+.grid-item-catalog .bg-white {
   padding: 23px 30px 34px 30px;
 }
 .thumb {
